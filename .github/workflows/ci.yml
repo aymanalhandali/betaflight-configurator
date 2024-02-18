@@ -9,7 +9,7 @@ on:
     branches:
       - master
       - beta
-      - dev
+      - feature_test
       - feature/*
   workflow_call:
     inputs:
